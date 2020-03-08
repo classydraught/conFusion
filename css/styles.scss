@@ -78,3 +78,27 @@ body {
     bottom: 0px;
     z-index: 1;
 }
+
+
+#loginModal {
+    .modal-header {
+        background-color: $background-dark;
+        color: white;
+    }
+
+    .modal-body {
+        background-color: $background-light;
+    }
+}
+
+
+#ReserveModal {
+    .modal-header {
+        background-color: $background-dark;
+        color: white;
+    }
+
+    .modal-body {
+        background-color: $background-light;
+    }
+}
