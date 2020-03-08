@@ -48,9 +48,11 @@ body {
 .carousel {
   background: #512da8;
 }
+
 .carousel .carousel-item {
   height: 300px;
 }
+
 .carousel .carousel-item img {
   position: absolute;
   top: 0;
@@ -69,9 +71,11 @@ body {
   background-color: #512da8;
   color: white;
 }
+
 #loginModal .modal-body {
   background-color: #d1c4e9;
 }
+
 #loginModal .close {
   color: #d1c4e9;
 }
@@ -80,11 +84,12 @@ body {
   background-color: #512da8;
   color: white;
 }
+
 #ReserveModal .modal-body {
   background-color: #d1c4e9;
 }
+
 #ReserveModal .close {
   color: #d1c4e9;
 }
-
 /*# sourceMappingURL=styles.css.map */
