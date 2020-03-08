@@ -1,10 +1,12 @@
 p {
   font-family: Raleway;
 }
+
 body {
   padding: 50px 0px 0px 0px;
   z-index: 0;
 }
+
 nav ul li a {
   font-family: Raleway;
 }
@@ -16,6 +18,7 @@ nav ul li a {
 .navbar-dark {
   background-color: #512dab;
 }
+
 .row-header {
   margin: 0px auto;
   padding: 0px auto;
@@ -79,4 +82,5 @@ nav ul li a {
   right: 0px;
   position: absolute;
   bottom: 0px;
+  z-index: 1;
 }
